@@ -4,6 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagothiwarekar&label=Profile%20views&color=0e75b6&style=flat" alt="adityagothiwarekar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityagothiwarekar" alt="adityagothiwarekar" /></a> </p>
+<p align="right"><img src="![image](https://user-images.githubusercontent.com/109978509/210253069-4b6f6841-1079-4483-81bf-61bd5efb8665.png)</p>
+"
 
 - 🔭 I’m currently working on **Datascience Project**
 
