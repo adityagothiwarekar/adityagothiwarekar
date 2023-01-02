@@ -1,7 +1,7 @@
 ![logo](https://github.com/adityagothiwarekar/adityagothiwarekar/blob/main/1.png)
 <h1 align="center">Hi 👋, I'm Aditya Gothiwarekar</h1>
 <h3 align="center">Just A Passionate Engineer Testing His Strength In Each Domain.</h3>
-<p><img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="adityagothiwarekar" width="300" > </p>
+<img align="right" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="adityagothiwarekar" width="300" > 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adityagothiwarekar" alt="adityagothiwarekar" /></a> </p>
 <p align="right"><img src="![image](https://user-images.githubusercontent.com/109978509/210253069-4b6f6841-1079-4483-81bf-61bd5efb8665.png)</p>
